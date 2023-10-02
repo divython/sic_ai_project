@@ -1,0 +1,16 @@
+altair
+numpy
+pandas
+pydeck
+keras
+streamlit
+tensorflow
+textblob
+TextBlob
+matplotlib
+google-api-python-client
+nltk
+torch
+layers
+torchvision
+Input 
